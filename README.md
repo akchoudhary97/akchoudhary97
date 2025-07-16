@@ -1,16 +1,19 @@
-## Hi there 👋
+## 💻 Full Stack Developer | 🚀 SailPoint Engineer | 🛡️ Cybersecurity Learner
 
-<!--
-**akchoudhary97/akchoudhary97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 
+- ✅ Full Stack Java Development
+- ✅ SailPoint IdentityNow & IIQ
+- ✅ Active Directory, Entra ID, IAM
+- ✅ PowerShell for automation
 
-Here are some ideas to get you started:
+### 🌱 Passionate About:
+- Clean Code & Scalable Solutions
+- Secure Identity Systems
+- Continuous Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me:
+- LinkedIn: https://www.linkedin.com/in/abhishek-choudhary97/
+- Email: 97abhishek.kumar.choudhary
+- GitHub: https://github.com/akchoudhary97
+
+> “The best way to predict the future is to invent it.”
